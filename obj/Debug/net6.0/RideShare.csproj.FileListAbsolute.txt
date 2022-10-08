@@ -1,0 +1,15 @@
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\bin\Debug\net6.0\RideShare.exe
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\bin\Debug\net6.0\RideShare.deps.json
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\bin\Debug\net6.0\RideShare.runtimeconfig.json
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\bin\Debug\net6.0\RideShare.dll
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\bin\Debug\net6.0\RideShare.pdb
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.csproj.AssemblyReference.cache
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.AssemblyInfoInputs.cache
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.AssemblyInfo.cs
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.csproj.CoreCompileInputs.cache
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.dll
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\refint\RideShare.dll
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.pdb
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\RideShare.genruntimeconfig.cache
+C:\Users\jwgeo\OneDrive\Desktop\RideShare\obj\Debug\net6.0\ref\RideShare.dll
