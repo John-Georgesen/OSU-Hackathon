@@ -1,26 +1,20 @@
 ﻿using System;
 
-namespace HelloWorldApp 
+namespace BusStopProgram  
 {
-    class Geeks 
+    public class Program 
     {
         static void Main(string[] args) 
         {
-            string[] busCoors = System.IO.File.ReadAllLines(@"busstops.txt");
-            
-            var tupleList = new List<Tuple<double, double>>();
+            Coordinates coorsClass = new Coordinates();
+            List<Tuple<double,double>> coorsList = coorsClass.getList();
 
-            System.Console.WriteLine("Contents of WriteLines2.txt = ");
-            foreach (string line in busCoors)
+            for(int i = 0; i < coorsList.Count; i++)
             {
-                string longitude, latitude;
-
-                longitude = line.Substring(0, 9);
-                latitude = line.Substring(10,9);
-
-                Tuple<double, double> addTup = Tuple.Create(Convert.ToDouble(longitude), Convert.ToDouble(latitude));
-                tupleList.Add(addTup);
+                Console.WriteLine(coorsList[i]);
             }
         }
+        
+        
     }
 }

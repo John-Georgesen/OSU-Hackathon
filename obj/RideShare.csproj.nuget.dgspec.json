@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\RideShare.csproj": {}
+    "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\OSU-Hackathon\\RideShare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\RideShare.csproj": {
+    "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\OSU-Hackathon\\RideShare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\RideShare.csproj",
+        "projectUniqueName": "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\OSU-Hackathon\\RideShare.csproj",
         "projectName": "RideShare",
-        "projectPath": "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\RideShare.csproj",
+        "projectPath": "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\OSU-Hackathon\\RideShare.csproj",
         "packagesPath": "C:\\Users\\jwgeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\obj\\",
+        "outputPath": "C:\\Users\\jwgeo\\OneDrive\\Desktop\\RideShare\\OSU-Hackathon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jwgeo\\AppData\\Roaming\\NuGet\\NuGet.Config"
